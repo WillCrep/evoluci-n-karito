@@ -1,0 +1,316 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bienvenidos a Karito Scrap - Todo tipo de eventos</title>
+    <!-- for-mobile-apps -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Grocery Store Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+    <script type="application/x-javascript">
+        addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+               function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!-- //for-mobile-apps -->
+    <link href="~/Bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/Bootstrap/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- font-awesome icons -->
+    <link href="~/Bootstrap/css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- //font-awesome icons -->
+    <!-- js -->
+    <script src="~/Bootstrap/js/jquery-1.11.1.min.js"></script>
+    <!-- //js -->
+    <link href='//fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+    <!-- start-smoth-scrolling -->
+    <script type="text/javascript" src="~/Bootstrap/js/move-top.js"></script>
+    <script type="text/javascript" src="~/Bootstrap/js/easing.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+                $('html,body').animate({ scrollTop: $(this.hash).offset().top }, 1000);
+            });
+        });
+    </script>
+    <!-- start-smoth-scrolling -->
+</head>
+
+<body>
+    <!-- header -->
+    <div class="agileits_header">
+        <div class="w3l_offers">
+            <h2><a>NUEVOS PAQUETES !!</a></h2>
+        </div>
+        <div class="w3l_header_right1">
+            <h2><a href="/Usuario/InsertarUsuario">Registro</a></h2>
+        </div>
+        <div class="w3l_header_right">
+            <ul>
+                <li class="dropdown profile_details_drop">
+                    <a href="/Usuario/loginCliente"><i class="fa fa-user" aria-hidden="true"> Iniciar sesión</i><span class="caret"></span></a>
+                </li>
+            </ul>
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+    <!-- script-for sticky-nav -->
+    <script>
+        $(document).ready(function () {
+            var navoffeset = $(".agileits_header").offset().top;
+            $(window).scroll(function () {
+                var scrollpos = $(window).scrollTop();
+                if (scrollpos >= navoffeset) {
+                    $(".agileits_header").addClass("fixed");
+                } else {
+                    $(".agileits_header").removeClass("fixed");
+                }
+            });
+
+        });
+    </script>
+    <!-- //script-for sticky-nav -->
+    <br></br>
+    <div class="logo_products">
+        <div class="container">
+            <div class="w3ls_logo_products_left">
+                <h1><a href="/Home/index">Karito<span>Scrap</span></a></h1>
+            </div>
+            <div class="w3ls_logo_products_left1">
+                <ul class="phone_email">
+                    <li><i class="fa fa-phone" aria-hidden="true"></i>(+044) 29-67-55</li>
+                    <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:juliosalgado2998@hotmail.com">KaritoScrap</a></li>
+                </ul>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+    <!-- //header -->
+    <div class="products-breadcrumb">
+        <div class="container">
+            <ul>
+                <li><i class="fa fa-home" aria-hidden="true"></i><a href="/Home/index">Home</a><span>|</span></li>
+            </ul>
+        </div>
+    </div>
+    <!-- banner -->
+    <div class="banner">
+
+        <div class="w3l_banner_nav_center">
+            <section class="slider">
+                <div class="flexslider">
+                    <ul class="slides">
+                        <li>
+                            <div class="w3l_banner_nav_right_banner">
+                                <h3>Haz el mejor momento de <span>tu vida</span>INOLVIDABLE</h3>
+                                <div class="more">
+                                    <a href="/Usuario/loginCliente" class="button--saqui button--round-l button--text-thick" data-text="Adquirir">MATRIMONIOS</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="w3l_banner_nav_right_banner1">
+                                <h3>Las mejores<span>tematicas para</span> TU DIA MÁS ESPECIAL</h3>
+                                <div class="more">
+                                    <a href="/Usuario/loginCliente" class="button--saqui button--round-l button--text-thick" data-text="Adquirir">CUMPLEAÑOS</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="w3l_banner_nav_right_banner2">
+                                <h3>Ofrecemos el<i>mejor</i> servicio de catering.</h3>
+                                <div class="more">
+                                    <a href="/Usuario/loginCliente" class="button--saqui button--round-l button--text-thick" data-text="Adquirir">Y MÁS EVENTOS</a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <!-- flexSlider -->
+            <link rel="stylesheet" href="~/Bootstrap/css/flexslider.css" type="text/css" media="screen" property="" />
+            <script defer src="~/Bootstrap/js/jquery.flexslider.js"></script>
+            <script type="text/javascript">
+                $(window).load(function () {
+                    $('.flexslider').flexslider({
+                        animation: "slide",
+                        start: function (slider) {
+                            $('body').removeClass('loading');
+                        }
+                    });
+                });
+            </script>
+            <!-- //flexSlider -->
+        </div>
+        <div class="clearfix"></div>
+    </div>
+
+    <!-- fresh-vegetables -->
+    <div class="fresh-vegetables">
+        <div class="container">
+            <h3>Top de Temáticas</h3>
+            <div class="w3l_fresh_vegetables_grids">
+                <div class="col-md-3 w3l_fresh_vegetables_grid w3l_fresh_vegetables_grid_left">
+                    <div class="w3l_fresh_vegetables_grid2">
+                        <ul>
+                            <li><i class="fa fa-check" aria-hidden="true"></i><a>Spiderman</a></li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i><a>The Advengers</a></li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i><a>Pokemon</a></li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i><a>Ben 10</a></li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i><a>Matrimonio</a></li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i><a>Despedida de Soltero</a></li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i><a>Funeral</a></li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i><a>Pollada Bailable</a></li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i><a>Quinceañero</a></li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i><a>Pedida de Mano</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-9 w3l_fresh_vegetables_grid_right">
+                    <div class="col-md-4 w3l_fresh_vegetables_grid">
+                        <div class="w3l_fresh_vegetables_grid1">
+                            <img src="~/Bootstrap/images/pollito.png" alt=" " class="img-responsive" />
+                        </div>
+                    </div>
+                    <div class="col-md-4 w3l_fresh_vegetables_grid">
+                        <div class="w3l_fresh_vegetables_grid1">
+                            <div class="w3l_fresh_vegetables_grid1_rel">
+                                <img src="~/Bootstrap/images/bodas.jpg" alt=" " class="img-responsive" />
+                                <div class="w3l_fresh_vegetables_grid1_rel_pos">
+                                    <div class="more m1">
+                                        <a class="button--saqui button--round-l button--text-thick" data-text="Nuevo">Nuevo</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="w3l_fresh_vegetables_grid1_bottom">
+                            <img src="~/Bootstrap/images/funeral.jpg" alt=" " class="img-responsive" />
+                            <div class="w3l_fresh_vegetables_grid1_bottom_pos">
+                                <h5>Ofertas Especiales</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 w3l_fresh_vegetables_grid">
+                        <div class="w3l_fresh_vegetables_grid1">
+                            <img src="~/Bootstrap/images/ben10.jpg" alt=" " class="img-responsive" />
+                        </div>
+                        <div class="w3l_fresh_vegetables_grid1_bottom">
+                            <img src="~/Bootstrap/images/spider.jpeg" alt=" " class="img-responsive" />
+                        </div>
+                    </div>
+                    <div class="clearfix"> </div>
+                    <div class="agileinfo_move_text">
+                        <div class="agileinfo_marquee">
+                            <h4>Obtenga un <span class="blink_me">25%</span>de Descuento en el Top de Paquetes Ranqueados</h4>
+                        </div>
+                        <div class="agileinfo_breaking_news">
+                            <span> </span>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+    </div>
+    <!-- //fresh-vegetables -->
+    <!-- newsletter -->
+    <div class="newsletter">
+        <div class="container">
+            <div class="w3agile_newsletter_left">
+                <h3>Inscripcion de Administrador</h3>
+            </div>
+            <div class="w3agile_newsletter_right">
+                <form action="#" method="post">
+                    <input type="email" name="Email" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" required="">
+                    <input type="submit" value="Inscribirse ahora">
+                </form>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+    <!-- //newsletter -->
+    <!-- footer -->
+    <div class="footer">
+        <div class="container">
+            <div class="clearfix"> </div>
+            <div class="agile_footer_grids">
+                <div class="col-md-3 w3_footer_grid agile_footer_grids_w3_footer">
+                    <div class="w3_footer_grid_bottom">
+                        <h4>Pagos 100% seguros</h4>
+                        <img src="~/Bootstrap/images/card.png" alt=" " class="img-responsive" />
+                    </div>
+                </div>
+                <div class="col-md-3 w3_footer_grid agile_footer_grids_w3_footer"></div>
+            </div>
+            <div class="col-md-3 w3_footer_grid agile_footer_grids_w3_footer">
+            </div>
+            <div class="col-md-3 w3_footer_grid2 agile_footer_grids_w3_footer">
+                <div class="w3_footer_grid_bottom">
+                    <h5>Nuestras redes sociales</h5>
+                    <ul class="agileits_social_icons">
+                        <li><a href="#" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="google"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="dribbble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+        <div class="wthree_footer_copy">
+            <p>© 2019 Karito Scrap. Todos los derechos reservados |</a></p>
+        </div>
+    </div>
+    <!-- //footer -->
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/Bootstrap/js/bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(".dropdown").hover(
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideDown("fast");
+                    $(this).toggleClass('open');
+                },
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideUp("fast");
+                    $(this).toggleClass('open');
+                }
+            );
+        });
+    </script>
+    <!-- here stars scrolling icon -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            /*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear'
+				};
+			*/
+
+            $().UItoTop({ easingType: 'easeOutQuart' });
+
+        });
+    </script>
+    <!-- //here ends scrolling icon -->
+    <script src="~/Bootstrap/js/minicart.min.js"></script>
+    <script>
+        // Mini Cart
+        paypal.minicart.render({
+            action: '#'
+        });
+
+        if (~window.location.search.indexOf('reset=true')) {
+            paypal.minicart.reset();
+        }
+    </script>
+</body>
+</html>

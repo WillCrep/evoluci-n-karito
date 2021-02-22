@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "MostrarGananciaPorMeses";
+    var myChart = new Chart(width: 600, height: 400)
+        .AddTitle("Chart Title")
+        .AddSeries(
+            name: "Employee",
+            xValue: new[] { "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto","Septiembre","Octubre","Noviembre","Diciembre" },
+            yValues: new[] { "300", "600", "400", "100", "3000", "100", ViewBag.ganancia, "0", "0", "0", "0", "0" })
+        .Write();
+}
+
+<h2>MostrarGananciaPorMeses</h2>

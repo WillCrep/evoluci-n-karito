@@ -1,0 +1,161 @@
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.dll.config
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.pdb
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\CapaAccesoDatos.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\CapaEntidad.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\Newtonsoft.Json.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Helpers.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Mvc.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Razor.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Razor.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\CapaAccesoDatos.pdb
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\CapaEntidad.pdb
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\Newtonsoft.Json.xml
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Helpers.xml
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Mvc.xml
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Razor.xml
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.xml
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Razor.xml
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Helpers.resources.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Mvc.resources.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Razor.resources.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.resources.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.csprojResolveAssemblyReference.cache
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.dll
+C:\Users\grego\onedrive\documents\visual studio 2013\Projects\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.pdb
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.dll.config
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.pdb
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaAccesoDatos.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaEntidad.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Newtonsoft.Json.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Helpers.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Mvc.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Razor.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Razor.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaAccesoDatos.pdb
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaEntidad.pdb
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Newtonsoft.Json.xml
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Helpers.xml
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Mvc.xml
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Razor.xml
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.xml
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Razor.xml
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Razor.resources.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.csprojResolveAssemblyReference.cache
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.dll
+C:\Users\Follo\Downloads\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.pdb
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.dll.config
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.pdb
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaAccesoDatos.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaEntidad.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Microsoft.Web.Infrastructure.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Newtonsoft.Json.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Helpers.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Mvc.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Razor.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Deployment.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Razor.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaAccesoDatos.pdb
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaEntidad.pdb
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Newtonsoft.Json.xml
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Helpers.xml
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Mvc.xml
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Razor.xml
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.xml
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Deployment.xml
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Razor.xml
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Helpers.resources.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Mvc.resources.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Razor.resources.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.resources.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.csprojResolveAssemblyReference.cache
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.dll
+E:\UPN\7mo CICLO\DIARS\karotoWeb\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.pdb
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.dll.config
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.pdb
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaAccesoDatos.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaEntidad.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Newtonsoft.Json.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Helpers.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Mvc.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Razor.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaAccesoDatos.pdb
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\CapaEntidad.pdb
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\Newtonsoft.Json.xml
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Helpers.xml
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Mvc.xml
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Razor.xml
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.xml
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.csprojResolveAssemblyReference.cache
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.dll
+C:\Users\Ronny\Desktop\diars karitoweb2.0\KaritoWeb2.0\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.pdb
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.dll.config
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\KaritoWeb2.0.pdb
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\CapaAccesoDatos.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\CapaEntidad.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\Newtonsoft.Json.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Helpers.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Mvc.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Razor.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Razor.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\CapaAccesoDatos.pdb
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\CapaEntidad.pdb
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Helpers.xml
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Mvc.xml
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.Razor.xml
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.xml
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\System.Web.WebPages.Razor.xml
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.Razor.resources.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.csprojResolveAssemblyReference.cache
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\obj\Debug\KaritoWeb2.0.pdb
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\PayPal.dll
+C:\Users\Follo\Downloads\T4\KaritoWeb2.0\KaritoWeb2.0\bin\PayPal.xml
