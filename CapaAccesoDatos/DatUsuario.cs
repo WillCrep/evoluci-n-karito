@@ -33,6 +33,12 @@ namespace CapaAccesoDatos
                 SqlConnection cn = Conexion.Instancia.Conectar();
                 cmd = new SqlCommand("spInsertarUsuario", cn);
                 cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@prmstrNombresPersona", usuario.persona.NombresPersona);
+                cmd.Parameters.AddWithValue("@prmstrApellidosPersona", usuario.persona.ApellidosPersona);
+                cmd.Parameters.AddWithValue("@prmdatetimeFecNacPersona", usuario.persona.FecNacPersona);
+                cmd.Parameters.AddWithValue("@prmstrDireccionPersona", usuario.persona.DireccionPersona);
+                cmd.Parameters.AddWithValue("@prmstrCelularPersona", usuario.persona.CelularPersona);
+                cmd.Parameters.AddWithValue("@prmstrDniPersona", usuario.persona.DniPersona);
                 cmd.Parameters.AddWithValue("@prmstrUsername", usuario.Username);
                 cmd.Parameters.AddWithValue("@prmstrPassword", usuario.Password);
                 cn.Open();
@@ -48,6 +54,7 @@ namespace CapaAccesoDatos
             finally { cmd.Connection.Close(); }
             return inserta;
         }
+
 
         public List<EntUsuario> ListarUsuario()
         {

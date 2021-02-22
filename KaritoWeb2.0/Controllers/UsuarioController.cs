@@ -36,29 +36,7 @@ namespace KaritoWeb2._0.Controllers
             try
             {
                 bool inserta = false;
-                bool personaExistente = false;
-                bool usuarioExistente = false;
-
-                List<EntPersona> listaPersona = DatPersona.Instancia.ListarPersona();
-
-                foreach(EntPersona personaAux in listaPersona)
-                {
-                    if (personaAux.DniPersona.Equals(usuario.persona.DniPersona) /*|| personaAux.EmailPersona.Equals(usuario.persona.EmailPersona)*/) personaExistente = true;
-                }
-
-                List<EntUsuario> listaUsuario = DatUsuario.Instancia.ListarUsuario();
-
-                foreach (EntUsuario usuarioAux in listaUsuario)
-                {
-                    if (usuarioAux.Username.Equals(usuario.Username)) usuarioExistente = true;
-                }
-
-                if(!usuarioExistente && !personaExistente)
-                {
-                    inserta = DatPersona.Instancia.InsertarPersona(usuario.persona);
-                    inserta = DatUsuario.Instancia.InsertarUsuario(usuario);
-                }
-
+                inserta = DatUsuario.Instancia.InsertarUsuario(usuario);
                 return RedirectToAction("Index", "Home");
             }
 
@@ -68,6 +46,7 @@ namespace KaritoWeb2._0.Controllers
             }
 
         }
+
         [HttpGet]
         public ActionResult loginCliente()
         {
