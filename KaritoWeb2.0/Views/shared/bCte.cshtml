@@ -1,0 +1,187 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <!-- for-mobile-apps -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Grocery Store Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+    <script type="application/x-javascript">
+        addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+               function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!-- //for-mobile-apps -->
+    <link href="~/Bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/Bootstrap/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- font-awesome icons -->
+    <link href="~/Bootstrap/css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- //font-awesome icons -->
+    <!-- js -->
+    <script src="~/Bootstrap/js/jquery-1.11.1.min.js"></script>
+    <!-- //js -->
+    <link href='//fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+    <!-- start-smoth-scrolling -->
+    <script type="text/javascript" src="~/Bootstrap/js/move-top.js"></script>
+    <script type="text/javascript" src="~/Bootstrap/js/easing.js"></script>
+
+    <!-- start-smoth-scrolling -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="//cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap4.min.css" rel="stylesheet">
+    <link href="//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css" rel="stylesheet">
+    <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
+    <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+    <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+                $('html,body').animate({ scrollTop: $(this.hash).offset().top }, 1000);
+            });
+            $("table").dataTable();
+            $("table").addClass("table table-sm table-striped table-bordered dt-responsive nowrap");
+            $("table").css("width", "100%");
+            $("table thead").addClass("thead-dark");//
+            $("#DataTables_Table_0_wrapper div.row").addClass("w-100");
+            $("tbody td").css("color", "black");
+            /*
+            */
+        });
+    </script>
+    <style>
+        .list-group-item.active {
+            z-index: 2;
+            color: #fff;
+            background-color: #f85b6a !important;
+            border-color: #e43647 !important;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- header -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light rounded-0" style="background-color: #212529 !important;">
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="w3ls_logo_products_left mr-auto">
+                <h1><a href="/Home/IndexAdministrador">
+                        <img src="~/Bootstrap/images/logo.png" style="width:200px;" /></a></h1>
+            </div>
+            <form class="form-inline ml-auto my-2 my-lg-0">
+                <div class="dropdown show">
+                    <a class="btn btn-outline-secondary" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fa fa-user"></i>  Bienvenido, @ViewBag.usuario.Username <i class="fa fa-caret-down"></i>
+                    </a>
+
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        <a class="dropdown-item" href="/Home/index">Salir</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </nav>
+    
+    <!-- //header -->
+    <div class="products-breadcrumb pt-3 pb-2 pl-5">
+        <div class="container-fluid">
+            <i class="fa fa-home text-danger" aria-hidden="true"></i> <label class="text-white"> Portal de Clientes</label>
+        </div>
+    </div>
+    <!-- banner -->
+    <div class="container">
+        <div class="row">
+            <div class="col-3">
+                <div class="">
+                    <nav class=" ">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="" id="">
+                            <ul class="list-group">
+                                <a class="h5 m-0 pt-2" href="../Contrato/InsertarContrato">
+                                    <li id="opc1" class="list-group-item list-group-item-action">
+                                        Crear Contrato
+                                    </li>
+                                </a>
+                                <a class="h5 m-0" href="../Contrato/ListarContrato">
+                                    <li id="opc2" class="list-group-item list-group-item-action">
+                                        Mis Contratos
+                                    </li>
+                                </a>
+                                
+                                <!--
+
+                                <li><a href="../Reporte/MostrarGananciaPorMeses"><h3><u>Ingresos</u></h3></a></li>
+                                -->
+                            </ul>
+                        </div><!-- /.navbar-collapse -->
+                    </nav>
+                </div>
+
+
+            </div>
+
+            <div class="col-9 mt-2 border-left">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+    <!-- fresh-vegetables -->
+    <!-- //fresh-vegetables -->
+    <!-- newsletter -->
+    <!-- //newsletter -->
+    <!-- footer -->
+    <!-- //footer -->
+    <!-- Bootstrap Core JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+            $(".dropdown").hover(
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideDown("fast");
+                    $(this).toggleClass('open');
+                },
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideUp("fast");
+                    $(this).toggleClass('open');
+                }
+            );
+        });
+    </script>
+    <!-- here stars scrolling icon -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            /*
+                var defaults = {
+                containerID: 'toTop', // fading element id
+                containerHoverID: 'toTopHover', // fading element hover id
+                scrollSpeed: 1200,
+                easingType: 'linear'
+                };
+            */
+
+
+
+        });
+    </script>
+    <!-- //here ends scrolling icon -->
+    <script src="~/Bootstrap/js/minicart.min.js"></script>
+    <script>
+        // Mini Cart
+        paypal.minicart.render({
+            action: '#'
+        });
+
+        if (~window.location.search.indexOf('reset=true')) {
+            paypal.minicart.reset();
+        }
+    </script>
+    @RenderSection("script", false)
+</body>
+</html>

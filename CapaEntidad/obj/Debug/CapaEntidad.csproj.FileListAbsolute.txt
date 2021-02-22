@@ -22,3 +22,9 @@ C:\Users\Follo\Downloads\T4\KaritoWeb2.0\CapaEntidad\bin\Debug\CapaEntidad.pdb
 C:\Users\Follo\Downloads\T4\KaritoWeb2.0\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
 C:\Users\Follo\Downloads\T4\KaritoWeb2.0\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\Follo\Downloads\T4\KaritoWeb2.0\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Manu\Desktop\KaritoWeb2.0\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Manu\Desktop\KaritoWeb2.0\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Manu\Desktop\KaritoWeb2.0\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\Manu\Desktop\KaritoWeb2.0\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Desktop\KaritoWeb2.0\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Manu\Desktop\KaritoWeb2.0\CapaEntidad\obj\Debug\CapaEntidad.pdb

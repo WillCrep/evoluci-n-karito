@@ -24,7 +24,9 @@ namespace CapaAccesoDatos
         public SqlConnection Conectar()
         {
             SqlConnection cn = new SqlConnection();
-            cn.ConnectionString = "Data Source=DESKTOP-N4KQS1K; initial Catalog=KaritoWebConFe;" + "Integrated Security=true";
+            //cn.ConnectionString = "Data Source=.; initial Catalog=KaritoWebConFe;" + "Integrated Security=true";
+            cn.ConnectionString = "Data Source=localhost; initial Catalog=KaritoWebConFe; User Id = upn; Password = Upn2020;";
+
             return cn;
         }
         #endregion metodos
